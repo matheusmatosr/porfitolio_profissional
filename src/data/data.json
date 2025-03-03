@@ -1,0 +1,118 @@
+{
+  "Header": {
+  "title": "Soluções Digitais Sob Medida",
+  "paragraph": "Desenvolvemos software, sites responsivos e automações inteligentes para otimizar processos e impulsionar negócios com inovação e tecnologia."
+  },
+  "About": {
+    "paragraph": "Somos especialistas em criar soluções digitais eficientes, alinhadas às necessidades do seu negócio. Nossa equipe possui experiência no desenvolvimento de software, automação de processos e criação de sites responsivos, sempre focados em performance e inovação.",
+    "Why": [
+      "Soluções Personalizadas",
+      "Atendimento Especializado",
+      "Inovação Contínua",
+      "Suporte Ágil",
+      "Desenvolvimento Escalável",
+      "Experiência do Usuário Aprimorada"
+    ],
+    "Why2": [
+      "Segurança Avançada",
+      "Alto Desempenho",
+      "Tecnologia de Ponta",
+      "Melhores Práticas de Mercado",
+      "Integração com APIs",
+      "Automação Inteligente"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Loja de Bicicleta",
+      "largeImage": "img/portfolio/bike.png",
+      "smallImage": "img/portfolio/bike.png"
+    },
+    {
+      "title": "Sistema de Gerenciamento",
+      "largeImage": "img/portfolio/matoscontrol.png",
+      "smallImage": "img/portfolio/matoscontrol.png"
+    },
+    {
+      "title": "Sistema de Rotina",
+      "largeImage": "img/portfolio/sistema.png",
+      "smallImage": "img/portfolio/sistema.png"
+    },
+    {
+      "title": "Site Pousada",
+      "largeImage": "img/portfolio/pousada.png",
+      "smallImage": "img/portfolio/pousada.png"
+    },
+    {
+      "title": "Dashboard Supermercado",
+      "largeImage": "img/portfolio/dashboard.png",
+      "smallImage": "img/portfolio/dashboard.png"
+    },
+    {
+      "title": "Controle Financeiro",
+      "largeImage": "img/portfolio/controle.png",
+      "smallImage": "img/portfolio/controle.png"
+    }
+  ],
+ "Services": [
+    {
+      "icon": "fa fa-laptop",
+      "name": "Desenvolvimento de Software",
+      "text": "Criamos sistemas eficientes para otimizar processos e resultados."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "Criação de Sites Responsivos",
+      "text": "Sites modernos e adaptáveis para todos os dispositivos."
+    },
+    {
+      "icon": "fa fa-magic",
+      "name": "Automação de Processos",
+      "text": "Reduza tarefas manuais e aumente a produtividade."
+    },
+    {
+      "icon": "fa fa-link",
+      "name": "Integração de APIs",
+      "text": "Conectamos sistemas para melhorar a eficiência."
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "name": "Otimização e SEO",
+      "text": "Acelere seu site e melhore sua visibilidade online."
+    },
+    {
+      "icon": "fa fa-shield",
+      "name": "Segurança Digital",
+      "text": "Projetos seguros e confiáveis para sua empresa."
+    }
+  ],
+  "Contact": {
+    "address": "Serra, Espírito Santo - Brasil",
+    "phone": "27 99226-0682",
+    "email": "matheusmatosrodrigues27@gmail.com",
+    "instagram": "https://www.instagram.com/dev_matheusmatos/",
+    "whatsapp": "https://w.app/matheusmatos"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-code",
+      "title": "Desenvolvimento Personalizado",
+      "text": "Criamos soluções sob medida para seu negócio."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "title": "Design Responsivo",
+      "text": "Sites e sistemas adaptáveis a qualquer tela."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Automação Inteligente",
+      "text": "Otimização de processos com tecnologia avançada."
+    },
+    {
+      "icon": "fa fa-lock",
+      "title": "Segurança Avançada",
+      "text": "Proteção robusta para seus sistemas e dados."
+    }
+  ]
+}
