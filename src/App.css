@@ -1,16 +1,8 @@
-#header {
-  width: 100%;
-  max-width: 100%;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
 @media screen and (max-width: 400px) {
   #header {
-    padding: 20px;
+    width: 100%;
+    max-width: 80%;
+    overflow: hidden;
   }
 
   .intro-text {
