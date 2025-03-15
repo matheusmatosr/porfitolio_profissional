@@ -57,17 +57,17 @@
  "Services": [
     {
       "icon": "fa fa-laptop",
-      "name": "Desenvolvimento de Software",
+      "name": "Software Personalizado",
       "text": "Criamos sistemas eficientes para otimizar processos e resultados."
     },
     {
       "icon": "fa fa-mobile",
-      "name": "Criação de Sites Responsivos",
+      "name": "Sites Responsivos",
       "text": "Sites modernos e adaptáveis para todos os dispositivos."
     },
     {
       "icon": "fa fa-magic",
-      "name": "Automação de Processos",
+      "name": "Automação",
       "text": "Reduza tarefas manuais e aumente a produtividade."
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "icon": "fa fa-shield",
-      "name": "Segurança Digital",
+      "name": "Segurança",
       "text": "Projetos seguros e confiáveis para sua empresa."
     }
   ],
@@ -96,7 +96,7 @@
   "Features": [
     {
       "icon": "fa fa-code",
-      "title": "Desenvolvimento Personalizado",
+      "title": "Software Personalizado",
       "text": "Criamos soluções sob medida para seu negócio."
     },
     {
@@ -112,7 +112,7 @@
     {
       "icon": "fa fa-lock",
       "title": "Segurança Avançada",
-      "text": "Proteção robusta para seus sistemas e dados."
+      "text": "Proteção robusta para seus dados."
     }
   ]
 }
