@@ -4,7 +4,7 @@
   "paragraph": "Desenvolvemos software, sites responsivos e automações inteligentes para otimizar processos e impulsionar negócios com inovação e tecnologia."
   },
   "About": {
-    "paragraph": "Somos especialistas em criar soluções digitais eficientes, alinhadas às necessidades do seu negócio. Nossa equipe possui experiência no desenvolvimento de software, automação de processos e criação de sites responsivos, sempre focados em performance e inovação.",
+    "paragraph": "Sou especialista em criar soluções digitais eficientes, alinhadas às necessidades do seu negócio. Possuo experiência no desenvolvimento de sistemas, automação de processos e criação de sites responsivos, sempre focados em performance e inovação.",
     "Why": [
       "Soluções Personalizadas",
       "Atendimento Especializado",
@@ -57,7 +57,7 @@
  "Services": [
     {
       "icon": "fa fa-laptop",
-      "name": "Software Personalizado",
+      "name": "Software",
       "text": "Criamos sistemas eficientes para otimizar processos e resultados."
     },
     {
@@ -111,7 +111,7 @@
     },
     {
       "icon": "fa fa-lock",
-      "title": "Segurança Avançada",
+      "title": "Segurança",
       "text": "Proteção robusta para seus dados."
     }
   ]
