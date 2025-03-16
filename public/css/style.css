@@ -250,7 +250,7 @@ header .intro-text {
 }
 #features i.fa {
   font-size: 38px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   transition: all 0.5s;
   color: #fff;
   width: 90px;
@@ -550,6 +550,10 @@ label {
 }
 #contact .contact-item {
   margin: 20px 0;
+}
+#contact .contact-item h3{
+  font-size: 30px;
+  font-weight: bold;
 }
 #contact .contact-item span {
   color: rgba(255, 255, 255, 1);

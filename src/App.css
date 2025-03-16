@@ -4,24 +4,19 @@
     overflow: hidden;
     text-align: center;
   }
-
   .intro-text {
     width: 100%;
   }
-
   .intro-text h1 {
     font-size: 35px; 
     margin-top: -70px;
   }
-
   .intro-text p {
-    font-size: 18px; 
+    font-size: 18px;
   }
-
   .intro-text {
     width: 100%;
   }
-
 
   #features {
     width: 100%;
