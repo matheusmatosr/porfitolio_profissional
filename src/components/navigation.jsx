@@ -21,7 +21,7 @@ export const Navigation = (props) => {
             <img
               src={logo}
               alt="Logo"
-              style={{ height: "85px", width: "150px", marginTop: "-35px" }}
+              style={{ height: "85px", width: "250px", marginTop: "-35px" }}
             />
           </a>{" "}
         </div>

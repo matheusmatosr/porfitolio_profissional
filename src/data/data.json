@@ -39,6 +39,11 @@
       "smallImage": "img/portfolio/sistema.png"
     },
     {
+      "title": "Sistema de Oficina Mecânica",
+      "largeImage": "img/portfolio/autotech.png",
+      "smallImage": "img/portfolio/autotech.png"
+    },
+    {
       "title": "Site Pousada",
       "largeImage": "img/portfolio/pousada.png",
       "smallImage": "img/portfolio/pousada.png"
@@ -47,11 +52,6 @@
       "title": "Dashboard Supermercado",
       "largeImage": "img/portfolio/dashboard.png",
       "smallImage": "img/portfolio/dashboard.png"
-    },
-    {
-      "title": "Controle Financeiro",
-      "largeImage": "img/portfolio/controle.png",
-      "smallImage": "img/portfolio/controle.png"
     }
   ],
  "Services": [
