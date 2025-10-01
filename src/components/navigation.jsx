@@ -1,9 +1,8 @@
-import React from "react";
 import logo from "../assets/logo.jpeg";
 
 export const Navigation = (props) => {
   return (
-    <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+    <nav id="menu" className="navbar navbar-default navbar-fixed-top" style={{ backgroundColor: "#f0eeeeff" }}>
       <div className="container">
         <div className="navbar-header">
           <button
