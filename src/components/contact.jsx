@@ -150,7 +150,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2025 por{" "}
+            &copy; 2026 por{" "}
             <a
               href="https://matheusmatos.vercel.app/"
               style={{ textDecoration: "none" }}
