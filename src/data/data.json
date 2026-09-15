@@ -22,26 +22,39 @@
       "Automação Inteligente"
     ]
   },
-  "Gallery": [
+  "Products": [
     {
-      "title": "Sistema Distribuidora",
-      "largeImage": "img/portfolio/distribuidora.png",
-      "smallImage": "img/portfolio/distribuidora.png"
+      "title": "Sistema para Distribuidoras",
+      "image": "img/portfolio/distribuidora.png",
+      "summary": "Gestão completa de pedidos, estoque e vendedores para distribuidoras que precisam de agilidade no dia a dia.",
+      "description": "Solução pronta para distribuidoras controlarem pedidos, estoque, clientes e equipe de vendas em um só lugar, com relatórios que ajudam a tomar decisões mais rápidas.",
+      "features": [
+        "Cadastro de clientes, produtos e fornecedores",
+        "Controle de estoque em tempo real",
+        "Emissão e acompanhamento de pedidos",
+        "Gestão de vendedores e comissões",
+        "Relatórios financeiros e de vendas"
+      ]
     },
+    {
+      "title": "Sistema para Oficina Mecânica",
+      "image": "img/portfolio/autoTech.png",
+      "summary": "Organização de ordens de serviço, clientes e veículos para oficinas mecânicas de qualquer porte.",
+      "description": "Solução pronta para oficinas mecânicas organizarem ordens de serviço, histórico de veículos e atendimento aos clientes, ganhando tempo e evitando retrabalho.",
+      "features": [
+        "Ordens de serviço com acompanhamento por status",
+        "Histórico completo por veículo e cliente",
+        "Controle de peças e serviços utilizados",
+        "Orçamentos rápidos para aprovação do cliente",
+        "Relatórios de faturamento e produtividade"
+      ]
+    }
+  ],
+  "Gallery": [
     {
       "title": "Sistema de Gerenciamento",
       "largeImage": "img/portfolio/matoscontrol.png",
       "smallImage": "img/portfolio/matoscontrol.png"
-    },
-    {
-      "title": "Sistema de Rotina",
-      "largeImage": "img/portfolio/sistema.png",
-      "smallImage": "img/portfolio/sistema.png"
-    },
-    {
-      "title": "Sistema de Oficina Mecânica",
-      "largeImage": "img/portfolio/autoTech.png",
-      "smallImage": "img/portfolio/autoTech.png"
     },
     {
       "title": "Site Pousada",

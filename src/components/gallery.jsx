@@ -8,9 +8,9 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Projetos</h2>
           <p>
-            Softwares personalizados, focado em design moderno, performance e
-            usabilidade. Cada projeto é criado para oferecer soluções eficientes
-            e intuitivas.
+            Projetos sob medida, desenvolvidos individualmente para atender às
+            necessidades específicas de cada empresa, com foco em design
+            moderno, performance e usabilidade.
           </p>
         </div>
         <div className="row">
