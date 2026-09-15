@@ -157,6 +157,7 @@ export const Contact = (props) => {
             >
               Matheus Matos
             </a>
+            . Todos os direitos reservados.
           </p>
         </div>
       </div>

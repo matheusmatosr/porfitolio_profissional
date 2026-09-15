@@ -105,27 +105,5 @@
     "email": "vertexsistema@gmail.com",
     "instagram": "https://www.instagram.com/vertex.sistemas?igsh=OWVvZ3Rxb3FrZ2Qx",
     "whatsapp": "https://api.whatsapp.com/send?phone=5527992260682&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20Portf%C3%B3lio!"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-code",
-      "title": "Software Personalizado",
-      "text": "Criamos soluções sob medida para seu negócio."
-    },
-    {
-      "icon": "fa fa-mobile",
-      "title": "Design Responsivo",
-      "text": "Sites e sistemas adaptáveis a qualquer tela."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Automação Inteligente",
-      "text": "Otimização de processos com tecnologia avançada."
-    },
-    {
-      "icon": "fa fa-lock",
-      "title": "Segurança",
-      "text": "Proteção robusta para seus dados."
-    }
-  ]
+  }
 }

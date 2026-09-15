@@ -1,6 +1,15 @@
 #products {
-  padding: 70px 0;
+  padding: 60px 0;
   background: #f6f6f6;
+}
+
+#about,
+#services,
+#portfolio {
+  padding: 60px 0;
+}
+#contact {
+  padding: 60px 0 40px;
 }
 
 .product-card {
@@ -111,6 +120,22 @@
   .product-card {
     margin-bottom: 20px;
   }
+
+  #about,
+  #services,
+  #portfolio {
+    padding: 40px 0;
+  }
+  #contact {
+    padding: 40px 0 25px;
+  }
+
+  #services .service-desc {
+    margin-bottom: 20px;
+  }
+  #about p {
+    margin: 15px 0;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -133,9 +158,6 @@
     width: 100%;
   }
 
-  #features {
-    width: 100%;
-  }
   #about,
   #services,
   #testimonials,
