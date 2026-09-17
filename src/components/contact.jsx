@@ -150,14 +150,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2026 por{" "}
-            <a
-              href="https://matheusmatos.vercel.app/"
-              style={{ textDecoration: "none" }}
-            >
-              Matheus Matos
-            </a>
-            . Todos os direitos reservados.
+            &copy; 2026 Vertex Sistemas, Todos os direitos reservados.
           </p>
         </div>
       </div>
