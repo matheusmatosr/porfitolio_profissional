@@ -4,7 +4,7 @@ const ProductCard = ({ product }) => {
   const [flipped, setFlipped] = useState(false);
 
   return (
-    <div className="col-sm-6 col-md-6">
+    <div className="col-sm-6 col-md-4">
       <div className={`product-card${flipped ? " is-flipped" : ""}`}>
         <div className="product-card-inner">
           <div className="product-card-front">
@@ -16,6 +16,15 @@ const ProductCard = ({ product }) => {
             <div className="product-card-body">
               <h4>{product.title}</h4>
               <p>{product.summary}</p>
+              {product.highlights && (
+                <ul className="product-card-highlights">
+                  {product.highlights.map((highlight, i) => (
+                    <li key={i}>
+                      <i className="fa fa-check-circle"></i> {highlight}
+                    </li>
+                  ))}
+                </ul>
+              )}
               <button
                 type="button"
                 className="btn btn-custom"
@@ -70,7 +79,7 @@ export const Products = (props) => {
             disponíveis por assinatura mensal para qualquer empresa do ramo.
           </p>
         </div>
-        <div className="row">
+        <div className="row products-row">
           {props.data
             ? props.data.map((product, i) => (
                 <ProductCard key={`${product.title}-${i}`} product={product} />

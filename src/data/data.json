@@ -24,9 +24,14 @@
   },
   "Products": [
     {
-      "title": "Sistema para Distribuidoras",
+      "title": "Distribuidoras",
       "image": "img/portfolio/distribuidora.png",
       "summary": "Gestão completa de pedidos, estoque e vendedores para distribuidoras que precisam de agilidade no dia a dia.",
+      "highlights": [
+        "Estoque em tempo real",
+        "Pedidos e vendedores",
+        "Relatórios de vendas"
+      ],
       "description": "Solução pronta para distribuidoras controlarem pedidos, estoque, clientes e equipe de vendas em um só lugar, com relatórios que ajudam a tomar decisões mais rápidas.",
       "features": [
         "Cadastro de clientes, produtos e fornecedores",
@@ -37,9 +42,14 @@
       ]
     },
     {
-      "title": "Sistema para Oficina Mecânica",
+      "title": "Oficina Mecânica",
       "image": "img/portfolio/autoTech.png",
       "summary": "Organização de ordens de serviço, clientes e veículos para oficinas mecânicas de qualquer porte.",
+      "highlights": [
+        "Ordens de serviço",
+        "Histórico por veículo",
+        "Orçamentos rápidos"
+      ],
       "description": "Solução pronta para oficinas mecânicas organizarem ordens de serviço, histórico de veículos e atendimento aos clientes, ganhando tempo e evitando retrabalho.",
       "features": [
         "Ordens de serviço com acompanhamento por status",
@@ -47,6 +57,24 @@
         "Controle de peças e serviços utilizados",
         "Orçamentos rápidos para aprovação do cliente",
         "Relatórios de faturamento e produtividade"
+      ]
+    },
+    {
+      "title": "Barbearia",
+      "image": "img/portfolio/barbearia.png",
+      "summary": "Agendamento online com áreas separadas para clientes, barbeiros e administração da barbearia.",
+      "highlights": [
+        "Agendamento online",
+        "Agenda por barbeiro",
+        "Painel financeiro"
+      ],
+      "description": "Solução pronta para barbearias receberem agendamentos online, organizarem a agenda de cada barbeiro e acompanharem o faturamento, as comissões e o lucro da casa.",
+      "features": [
+        "Agendamento online com horários livres por barbeiro",
+        "Cliente pode editar ou cancelar o próprio horário",
+        "Agenda e painel de ganhos para cada barbeiro",
+        "Gestão da equipe, dos serviços e dos clientes",
+        "Painel financeiro com comissões e lucro da casa"
       ]
     }
   ],
